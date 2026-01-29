@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Noel;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 # 💫 About Me
 
@@ -26,21 +24,13 @@ Python, Machine Learning fundamentals, Flask/Django web apps, and building pract
 ⚡ **Fun fact**  
 I enjoy breaking down complex problems and turning them into simple, usable software solutions.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noeljacobantony99@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 ## 💻 Tech Stack
 
@@ -51,9 +41,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 ### ⚙️ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -65,9 +53,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 ### 🗄️ Databases & Backend
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -75,9 +61,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
+---
 
 ### ☁️ Hosting & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
@@ -89,24 +73,16 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
-
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=urumb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=urumb&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
-
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
-</p>
-Reminder: This profile is a work in progress 🚀
-
-[![](https://visitcount.itsvg.in/api?id=urumb&icon=2&color=13)](https://visitcount.itsvg.in)
 ---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 ## 💰 Support My Work
 
 If you find my work helpful or interesting, you can support me here:
