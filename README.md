@@ -87,25 +87,12 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urumb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=urumb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=urumb&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 
@@ -116,9 +103,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ---
 Reminder: This profile is a work in progress 🚀
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=urumb&icon=2&color=13" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=urumb&icon=2&color=13)](https://visitcount.itsvg.in)
 ---
 ## 💰 Support My Work
 
