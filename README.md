@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Noel+Jacob+Antony;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Noel;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn" />
 </p>
 
 ---
@@ -29,12 +29,19 @@ Python, Machine Learning fundamentals, Flask/Django web apps, and building pract
 I enjoy breaking down complex problems and turning them into simple, usable software solutions.
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
+</p>
+---
 
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noeljacobantony99@gmail.com)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
+</p>
 
 ## 💻 Tech Stack
 
@@ -78,19 +85,18 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urumb&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urumb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=urumb&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&theme=transparent&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,7 +104,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urumb&theme=transparent&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=urumb&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
