@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Noel;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&animation=fadeIn" />
-</p>
-
 ---
 
 # 💫 About Me
@@ -29,16 +25,17 @@ Python, Machine Learning fundamentals, Flask/Django web apps, and building pract
 I enjoy breaking down complex problems and turning them into simple, usable software solutions.
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
 </p>
----
 
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noeljacobantony99@gmail.com)
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
 </p>
@@ -85,6 +82,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=2" />
 </p>
