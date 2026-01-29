@@ -90,12 +90,13 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urumb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urumb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 ---
 
@@ -105,6 +106,7 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+
 ---
 
 <p align="center">
@@ -112,7 +114,12 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 </p>
 
 ---
+Reminder: This profile is a work in progress 🚀
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=urumb&icon=2&color=13" />
+</p>
+---
 ## 💰 Support My Work
 
 If you find my work helpful or interesting, you can support me here:
