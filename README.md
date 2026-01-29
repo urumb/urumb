@@ -97,17 +97,6 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urumb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" />
 </p>
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urumb&theme=onedark&no-frame=true&margin-w=10&row=1&column=4" />
-</p>
-
-
 ---
 
 ### ✍️ Random Dev Quote
