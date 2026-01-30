@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Noel;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&color=38BDF8&lines=Hi%2C+I'm+Noel;AI+%26+Machine+Learning+Student;Building+Real-World+Projects;Python+%7C+Backend+%7C+ML;Always+Learning%2C+Always+Building" />
 </p>
 
 ---
@@ -25,6 +25,9 @@ Python, Machine Learning fundamentals, Flask/Django web apps, and building pract
 I enjoy breaking down complex problems and turning them into simple, usable software solutions.
 
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
+
 
 ## 🌐 Connect With Me
 
@@ -88,3 +91,11 @@ I enjoy breaking down complex problems and turning them into simple, usable soft
 If you find my work helpful or interesting, you can support me here:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/urumb)
+
+---
+
+## 😵‍💫 Random Programming GIFs
+
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
