@@ -1,131 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Noel%20Jacob%20Antony&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=AI%20and%20ML%20student%20%7C%20Bangalore&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Noel Jacob Antony, AI and ML student in Bangalore" />
+<a href="https://github.com/urumb/flakehound"><img src="assets/hero.svg" width="100%" alt="Noel Jacob Antony. I hunt the tests that lie. A pixel hound sniffs along a row of tests, finds the flaky one and names the cause." /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&center=true&vCenter=true&width=800&height=50&color=38BDF8&lines=Hi%2C+I'm+Noel+%F0%9F%91%8B;I+build+real-world+projects;Python+%7C+Backend+%7C+ML;Code%2C+coffee%2C+repeat" alt="Hi, I'm Noel. I build real-world projects with Python, backend and ML." />
-
-<br />
-
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:noeljacobantony99@gmail.com)
-[![PyPI](https://img.shields.io/badge/flakehound_on_PyPI-0F172A?style=for-the-badge&logo=pypi&logoColor=38BDF8)](https://pypi.org/project/flakehound/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/urumb)
-![Profile views](https://komarev.com/ghpvc/?username=urumb&style=for-the-badge&color=1E3A8A&label=VISITORS)
+<code>pip install flakehound</code>&nbsp; · &nbsp;<a href="https://pypi.org/project/flakehound/">PyPI</a>&nbsp; · &nbsp;<a href="mailto:noeljacobantony99@gmail.com">send a tip</a>&nbsp; · &nbsp;<a href="https://buymeacoffee.com/urumb">buy the hound a coffee</a>
 
 </div>
 
 <br />
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img src="assets/h-cases.svg" width="100%" alt="Exhibit A: Closed cases" />
 
-### 🧑‍💻 `whoami`
+<div align="center">
 
-- 🔭 **Building** AI/ML projects, full-stack web apps and secure Python systems
-- 🌱 **Learning** advanced ML, backend system design and real-world deployment
-- 🤝 **Open to** AI/ML projects, open source and student-led tech initiatives
-- 🆘 **Looking for help with** model optimisation and scalable backends
-- 💬 **Ask me about** Python, ML fundamentals, Flask and Django
-- ⚡ **Fun fact:** I enjoy turning messy problems into simple, usable software
+<a href="https://github.com/urumb/flakehound"><img src="assets/case-flakehound.svg" width="400" alt="flakehound: finds flaky pytest tests and names the cause" /></a>
+<a href="https://github.com/urumb/multi-agent-code-auditor"><img src="assets/case-auditor.svg" width="400" alt="Multi-Agent Code Auditor: local-only code audits with static analysis and AI agents" /></a>
+<a href="https://urumb.github.io/submission-doctor/"><img src="assets/case-doctor.svg" width="400" alt="Submission Doctor: readiness score and fix list for hackathon repos" /></a>
+<a href="https://brandproof-wff4.onrender.com/"><img src="assets/case-brandproof.svg" width="400" alt="BrandProof: brand review where every finding quotes its approved source" /></a>
+<a href="https://credishield-lyart.vercel.app"><img src="assets/case-credishield.svg" width="400" alt="CrediShield: transparent loan default risk scoring" /></a>
+<a href="https://urumb.github.io/hushroom/"><img src="assets/case-hushroom.svg" width="400" alt="Hushroom: a calm focus room for students" /></a>
 
-</td>
-<td width="38%" align="center">
+<sub>Click a file to open it. Source: <a href="https://github.com/urumb/flakehound">flakehound</a> · <a href="https://github.com/urumb/multi-agent-code-auditor">auditor</a> · <a href="https://github.com/urumb/submission-doctor">doctor</a> · <a href="https://github.com/urumb/brandproof">brandproof</a> (Team Maverick, CodeNova India 2026) · <a href="https://github.com/urumb/loan-risk-platform">credishield</a> · <a href="https://github.com/urumb/hushroom">hushroom</a></sub>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" alt="Illustration of a developer typing on a laptop" />
+</div>
 
-</td>
-</tr>
-</table>
+<br />
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐕 [flakehound](https://github.com/urumb/flakehound)
-Finds flaky pytest tests and **proves why** they flake: order dependencies, randomness, time bombs and race conditions.
-
-`Python` `pytest` `CLI`
-
-**[📦 PyPI](https://pypi.org/project/flakehound/)** · **[💻 Code](https://github.com/urumb/flakehound)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ [Multi-Agent Code Auditor](https://github.com/urumb/multi-agent-code-auditor)
-Local-first code audits where static analysis and AI agents work together. Your code never leaves your machine.
-
-`Python` `LangGraph` `Ollama` `ChromaDB`
-
-**[💻 Code](https://github.com/urumb/multi-agent-code-auditor)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 [Submission Doctor](https://github.com/urumb/submission-doctor)
-Checks your hackathon repo before the judges do: readiness score, fix list, score card and README badge.
-
-`JavaScript` `GitHub API`
-
-**[🌐 Live](https://urumb.github.io/submission-doctor/)** · **[💻 Code](https://github.com/urumb/submission-doctor)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [BrandProof](https://github.com/urumb/brandproof)
-Pre-publication brand review where every finding quotes its approved source. Built by Team Maverick for CodeNova India 2026.
-
-`Python` `BM25 retrieval` `LLM`
-
-**[🌐 Live](https://brandproof-wff4.onrender.com/)** · **[💻 Code](https://github.com/urumb/brandproof)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 [CrediShield](https://github.com/urumb/loan-risk-platform)
-Loan default risk workspace with transparent scoring, AI-written decision memos and an audit log.
-
-`Next.js` `TypeScript` `Prisma` `Groq`
-
-**[🌐 Live](https://credishield-lyart.vercel.app)** · **[💻 Code](https://github.com/urumb/loan-risk-platform)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌙 [Hushroom](https://github.com/urumb/hushroom)
-A calm focus room for students: Pomodoro timer, rain and fire sounds synthesised in the browser, works offline.
-
-`Vanilla JS` `Web Audio` `PWA`
-
-**[🌐 Live](https://urumb.github.io/hushroom/)** · **[💻 Code](https://github.com/urumb/hushroom)**
-
-</td>
-</tr>
-</table>
-
-## 🎮 The Arcade
-
-*Small things I built for fun. Go click them.*
-
-| Play | What it is |
-| :-- | :-- |
-| 💨 **[FARTLE](https://urumb.github.io/fartle/)** | A daily word ladder that always ends in one place |
-| ⏪ **[One Second Ago](https://github.com/urumb/one-second-ago)** | A puzzle game where you rewind yourself, but the world doesn't |
-| 🌍 **[Live Threat Map](https://urumb.github.io/DDOS-attack-map/)** | A 3D globe of *simulated* cyber attacks |
-| ⌨️ **[Typing Test](https://urumb.github.io/typing-test/)** | How fast are your fingers? |
-| 📸 **[Polaroid](https://urumb.github.io/polaroid/)** | A little Polaroid experiment |
-| 🍩 **[Donut Factory](https://urumb.github.io/donut/)** | A bakery landing page with a bitable donut cursor |
-
-## 🌍 Open Source
+<img src="assets/h-prints.svg" width="100%" alt="Exhibit B: Fingerprints elsewhere" />
 
 Merged pull requests in other people's projects:
 
-| Project | Contribution |
+| Scene | What I left behind |
 | :-- | :-- |
 | **GoogleCloudPlatform/k8s-aibom** | [Helm chart prints next-step commands after install](https://github.com/GoogleCloudPlatform/k8s-aibom/pull/406) |
 | **Lelu-ai/lelu** | [Fixed response mapping in the TypeScript SDK](https://github.com/Lelu-ai/lelu/pull/130) · [Corrected audit page claims](https://github.com/Lelu-ai/lelu/pull/141) |
@@ -135,41 +39,55 @@ Merged pull requests in other people's projects:
 | **GianlucaBave/murmury** | [Added tests for the eval harness](https://github.com/GianlucaBave/murmury/pull/94) |
 | **Rohan-Shridhar/gridcraft** | [Added a way back from the 404 page](https://github.com/Rohan-Shridhar/gridcraft/pull/151) |
 
-## 🛠️ Tech Stack
+<br />
 
-<div align="center">
+<img src="assets/h-locker.svg" width="100%" alt="Exhibit C: The evidence locker" />
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,flask,django,react,nextjs,tailwind,tensorflow,pytorch,sklearn,mysql,sqlite,postgres,firebase,supabase,prisma,vercel,git,github,githubactions,postman,figma,anaconda&perline=10" alt="Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, Flask, Django, React, Next.js, Tailwind CSS, TensorFlow, PyTorch, scikit-learn, MySQL, SQLite, PostgreSQL, Firebase, Supabase, Prisma, Vercel, Git, GitHub, GitHub Actions, Postman, Figma, Anaconda" />
+Things confiscated after midnight. All of them are clickable.
 
-<br /><br />
+- 💨 [**FARTLE**](https://urumb.github.io/fartle/): a daily word ladder that always ends in one place
+- ⏪ [**One Second Ago**](https://github.com/urumb/one-second-ago): rewind yourself, but the world doesn't
+- 🌍 [**Live Threat Map**](https://urumb.github.io/DDOS-attack-map/): a 3D globe of *simulated* cyber attacks
+- ⌨️ [**Typing Test**](https://urumb.github.io/typing-test/): how fast are your fingers?
+- 📸 [**Polaroid**](https://urumb.github.io/polaroid/): a little Polaroid experiment
+- 🍩 [**Donut Factory**](https://urumb.github.io/donut/): a bakery page with a bitable donut cursor
 
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=38BDF8)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=38BDF8)
-![Render](https://img.shields.io/badge/Render-0F172A?style=flat-square&logo=render&logoColor=38BDF8)
+<br />
 
-</div>
+<img src="assets/h-cold.svg" width="100%" alt="Exhibit D: A case for you" />
 
-## 📊 GitHub Activity
+This test passes when you run it alone. In the full suite, it fails. **Why?**
 
-<div align="center">
+```python
+# test_shop.py
+from shop import cart
 
-<img height="180" src="https://streak-stats.demolab.com?user=urumb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urumb&theme=tokyonight" alt="Top languages by repository" />
+def test_add_apple():
+    cart.append("apple")
+    assert len(cart) == 1
+```
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=urumb&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<details>
+<summary>🔍 <b>First clue</b></summary>
+<br />
 
-</div>
+`cart` is imported, not created inside the test. Who else has been touching it?
 
-## 🦉 Midnight Owl Mode
+<details>
+<summary>🚨 <b>Name the culprit</b></summary>
+<br />
 
-<div align="center">
+`cart` is a module-level list, so it lives as long as the test process. An earlier test left something in it, and `len(cart)` is no longer 1. Reset it in a fixture, or give every test its own cart.
 
-<img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="100%" alt="Pixel art of a developer coding late at night" />
+Finding the *earlier test* by hand is the boring part. That is why I built [**flakehound**](https://github.com/urumb/flakehound).
 
-<br /><br />
+</details>
+</details>
 
-**Like something here? ⭐ a repo, or [say hi](mailto:noeljacobantony99@gmail.com).**
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8" width="100%" alt="" />
+**Known associates:** Python, Java, C, C++, JavaScript, TypeScript · Flask, Django, React, Next.js · TensorFlow, PyTorch, scikit-learn, NumPy, Pandas · PostgreSQL, MySQL, SQLite, Prisma
 
-</div>
+**Currently investigating:** advanced ML, backend system design and real-world deployment
+
+**Open to:** AI/ML projects, open source and student-led tech initiatives
