@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/urumb/flakehound"><img src="assets/hero.svg" width="100%" alt="Noel Jacob Antony. I hunt the tests that lie. A pixel hound sniffs along a row of tests, finds the flaky one and names the cause." /></a>
+<a href="https://github.com/urumb/flakehound"><img src="assets/hero.svg" width="100%" alt="Noel Jacob Antony. I hunt the tests that lie. On a rainy night a pixel hound in a detective hat follows a row of tests, finds the flaky one and names the cause." /></a>
 
 <code>pip install flakehound</code>&nbsp; · &nbsp;<a href="https://pypi.org/project/flakehound/">PyPI</a>&nbsp; · &nbsp;<a href="mailto:noeljacobantony99@gmail.com">send a tip</a>&nbsp; · &nbsp;<a href="https://buymeacoffee.com/urumb">buy the hound a coffee</a>
 
@@ -27,7 +27,11 @@
 
 <img src="assets/h-prints.svg" width="100%" alt="Exhibit B: Fingerprints elsewhere" />
 
-Merged pull requests in other people's projects:
+<a href="https://github.com/search?q=author%3Aurumb+is%3Apr+is%3Amerged&type=pullrequests"><img src="assets/board.svg" width="100%" alt="Evidence board: 8 merged pull requests in 7 other projects" /></a>
+
+<details>
+<summary>📂 <b>Open the evidence</b> (links to each merged pull request)</summary>
+<br />
 
 | Scene | What I left behind |
 | :-- | :-- |
@@ -38,6 +42,8 @@ Merged pull requests in other people's projects:
 | **wmentor/go-magnetar** | [Added unit tests for a GitLab tool](https://github.com/wmentor/go-magnetar/pull/385) |
 | **GianlucaBave/murmury** | [Added tests for the eval harness](https://github.com/GianlucaBave/murmury/pull/94) |
 | **Rohan-Shridhar/gridcraft** | [Added a way back from the 404 page](https://github.com/Rohan-Shridhar/gridcraft/pull/151) |
+
+</details>
 
 <br />
 
@@ -54,34 +60,42 @@ Things confiscated after midnight. All of them are clickable.
 
 <br />
 
-<img src="assets/h-cold.svg" width="100%" alt="Exhibit D: A case for you" />
+<img src="assets/h-cold.svg" width="100%" alt="Exhibit D: The lineup" />
 
-This test passes when you run it alone. In the full suite, it fails. **Why?**
+One of these three tests is lying. It can pass on one run and fail on the next. **Pick the culprit.**
 
-```python
-# test_shop.py
-from shop import cart
+<div align="center">
 
-def test_add_apple():
-    cart.append("apple")
-    assert len(cart) == 1
-```
+<img src="assets/suspect-1.svg" width="270" alt="Suspect 1: test_total adds 0.5 and 0.25 and expects 0.75" />
+<img src="assets/suspect-2.svg" width="270" alt="Suspect 2: test_sorted sorts a set of two letters and compares it to a list" />
+<img src="assets/suspect-3.svg" width="270" alt="Suspect 3: test_letters turns a set of two letters into a list and compares it" />
 
-<details>
-<summary>🔍 <b>First clue</b></summary>
-<br />
-
-`cart` is imported, not created inside the test. Who else has been touching it?
+</div>
 
 <details>
-<summary>🚨 <b>Name the culprit</b></summary>
+<summary>👉 <b>Accuse suspect #1</b></summary>
 <br />
 
-`cart` is a module-level list, so it lives as long as the test process. An earlier test left something in it, and `len(cart)` is no longer 1. Reset it in a fixture, or give every test its own cart.
-
-Finding the *earlier test* by hand is the boring part. That is why I built [**flakehound**](https://github.com/urumb/flakehound).
+❌ **Wrong. Released without charge.** Floats look guilty, but 0.5, 0.25 and 0.75 are all exact in binary. This one passes every time.
 
 </details>
+
+<details>
+<summary>👉 <b>Accuse suspect #2</b></summary>
+<br />
+
+❌ **Wrong. Solid alibi.** A set has no promised order, but `sorted()` gives it one before the comparison.
+
+</details>
+
+<details>
+<summary>👉 <b>Accuse suspect #3</b></summary>
+<br />
+
+🚨 **Guilty.** Python randomises string hashing in each new process, so `list(s)` can come out as `['b', 'a']`. Setting `PYTHONHASHSEED` pins the behaviour down.
+
+[**flakehound**](https://github.com/urumb/flakehound) catches this kind of liar for you.
+
 </details>
 
 <br />
@@ -91,3 +105,7 @@ Finding the *earlier test* by hand is the boring part. That is why I built [**fl
 **Currently investigating:** advanced ML, backend system design and real-world deployment
 
 **Open to:** AI/ML projects, open source and student-led tech initiatives
+
+<br />
+
+<a href="mailto:noeljacobantony99@gmail.com"><img src="assets/footer.svg" width="100%" alt="Got a test that lies to you? Send the hound a tip." /></a>
